@@ -95,7 +95,23 @@ img{
     font-weight: 400;
 }
 .title{
-    font-size: 38px;
+    font-size:32px;
     font-weight: bold;
     color: #252432;
 }
+/* feedback styles */
+.heading{
+    text-align: center;
+}
+.feedback-container{
+    display: flex;
+    gap: 20px;
+    
+}
+.feedback{
+    pa
+}
+
+.about{
+    display: flex;
+}    
