@@ -61,7 +61,7 @@ p{
     font-size:24px ;
     font-weight: 400;
 }
-section{
+.action{
     display: flex;
     justify-content: space-between;
     margin:116px 148px 0 129px ;
@@ -69,4 +69,33 @@ section{
 img{
     border-radius: 48px;
     
+}
+/* productive users styles */
+.productive-users{
+    background-color:#D6DDED;
+    border-radius:24px ;
+    margin: 116px 141px 0 159px;
+    text-align: center;
+    padding:50px 142px ;
+
+}
+.brief-description{
+    display: flex;
+    justify-content: space-around;
+
+}
+.digit{
+    font-size: 80px;
+    font-weight: bold;
+    color: blue;
+}
+.sub-title{
+    color:#000000 ;
+    font-size: 20px;
+    font-weight: 400;
+}
+.title{
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
 }
