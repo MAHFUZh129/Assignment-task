@@ -52,3 +52,21 @@ nav{
 header{
     background-image:url(/Assets/Hero-bg.png);
 }
+/* main styles */
+.section-title{
+    font-weight: bold;
+    font-size: 42px;
+}
+p{
+    font-size:24px ;
+    font-weight: 400;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    margin:116px 148px 0 129px ;
+}
+img{
+    border-radius: 48px;
+    
+}
