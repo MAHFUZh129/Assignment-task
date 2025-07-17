@@ -132,6 +132,7 @@ text-align: center;
 }
 .feedback-title{
     font-size: 24px;
+    margin-bottom:8px ;
 }
 .feedback-subtititle{
     margin-top:0px;
@@ -158,14 +159,18 @@ text-align: center;
 }
 /* contact styles */
 form{
+    
     display:flex;
     flex-direction: column;
+    margin-bottom: 50px;}
     
-   
-}
+ 
+
+
 .contact{
    margin: 100px 150px;
     display: flex;
+    align-items: center;
     gap:115px;
     justify-content: center;
 }
@@ -211,11 +216,39 @@ label{
     font-size: 18px;
     font-weight:bold; color: #000000;
 }
-.form-container{
-    
-} 
+
 
 /* main styles */
 main{
     background-color:#F5F8FF;
+}
+/* footer styles */
+.links{
+   justify-content: center;
+   display: flex;
+   gap: 48px;
+   
+}
+.no-underline{
+    text-decoration: none;
+}
+.website-name{
+    text-align: center;
+    font-weight:black ;
+    font-size: 100px;
+    color: #4F49FF;
+    margin-bottom: 8px; 
+
+}
+.break{
+    text-align: center;
+}
+.sub-title{
+    text-align: center;
+    color: #8987A1;
+    margin-top: 0;
+}
+footer{
+    margin-top: 104px;
+    margin-bottom: 103px;
 }
