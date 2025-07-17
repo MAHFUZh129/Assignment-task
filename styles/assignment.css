@@ -35,9 +35,12 @@ nav{
     padding:12px 36px ;
     color: white;
     border-radius: 10px;
-    border:none ;
-
-
+    border:none;
+}
+button:hover{
+    background-color: rgb(237, 173, 54);
+    color: black;
+    
 }
 /* banner styles */
 .banner{
@@ -134,6 +137,10 @@ text-align: center;
     margin-top:0px;
     font-size: medium;
     font-weight: 100px;
+ }   
+.info{
+    padding-left: 10px;
+    font-size:medium;
     
 }
 .about{
