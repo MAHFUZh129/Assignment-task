@@ -52,9 +52,9 @@ button:hover{
     text-align: center;
 }
 /* header */
-header{
-    background-image:url(/Assets/Hero-bg.png);
-}
+header{ 
+    background-image: url(/Assets/hero-bg.png);}
+    
 /* action styles */
 .section-title{
     font-weight: bold;
